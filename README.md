@@ -44,8 +44,8 @@ System.out.println(blockedList.get(0)); // Outputs: 10
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/elasfaromar/blocked-list)
-   cd <repository-directory>
+   git clone https://github.com/elasfaromar/blocked-list
+   cd blocked-list
    ```
 
 2. Compile the Java files:
